@@ -1,7 +1,7 @@
 {
   "urls": [
-    ["mcron/hmac.py", "github:vrichv/micropython-mcron/mcron/version.py"],
-    ["mcron/provision.py", "github:vrichv/micropython-mcron/mcron/decorators.py"],
+    ["mcron/version.py", "github:vrichv/micropython-mcron/mcron/version.py"],
+    ["mcron/decorators.py", "github:vrichv/micropython-mcron/mcron/decorators.py"],
     ["mcron/__init__.py", "github:vrichv/micropython-mcron/mcron/__init__.py"]
   ],
   "deps": [],
