@@ -1,0 +1,9 @@
+{
+  "urls": [
+    ["mcron/hmac.py", "github:vrichv/micropython-mcron/mcron/version.py"],
+    ["mcron/provision.py", "github:vrichv/micropython-mcron/mcron/decorators.py"],
+    ["mcron/__init__.py", "github:vrichv/micropython-mcron/mcron/__init__.py"]
+  ],
+  "deps": [],
+  "version": "1.1.2"
+}
